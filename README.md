@@ -17,7 +17,7 @@ Creative Expression – Thumb painting, braiding, origami stalls, and anonymous 
 
 Chatbot: Doc – An AI-powered mental health companion that listens, suggests coping tools, and shares verified resources in a safe, judgment-free zone
 
-# Meet Doc – Your Mental Health Companion 🤖
+# Meet Doc – Your Mental Health Companion 
 Doc is a conversational AI chatbot built to assist users with:
 
 Journaling prompts and self-reflection guides
